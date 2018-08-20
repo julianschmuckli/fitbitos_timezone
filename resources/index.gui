@@ -1,0 +1,7 @@
+<svg class="background">
+  <text id="main_label" />
+  <text id="main" />
+  <line x1="0" y1="50%" x2="100%" y2="50%" fill="red" stroke-width="2" />
+  <text id="other_timezone" />
+  <text id="other_timezone_label" />
+</svg>

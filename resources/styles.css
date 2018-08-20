@@ -1,0 +1,43 @@
+.background {
+  viewport-fill: black;
+}
+
+#main_label {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 30;
+  fill: white;
+}
+
+#main {
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 100;
+  fill: white;
+}
+
+#other_timezone_label {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 100%+15-30;
+  fill: white;
+}
+
+#other_timezone {
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 100%+15-90;
+  fill: white;
+}

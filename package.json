@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "9bfa0faf-23ba-41a1-84ed-5d3dfefd13a7",
+    "appType": "clockface",
+    "appDisplayName": "Timezone",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Timezone"
+      }
+    }
+  }
+}
